@@ -1,6 +1,6 @@
 #Учебный проект курса "Введение в Git"
 ## "Команда разработчиков"
 1. Mr.first
-2. Mr.second
+2. FisunMark
 3. Mr.three
 ### "2018 KIPU
