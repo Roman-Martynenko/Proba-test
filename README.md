@@ -4,11 +4,28 @@
 2. FisunMark
 3. Mr.three
 
-* Раз абзац. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-
-* Два абзац. Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse id sem consectetuer libero luctus adipiscing.
-
-* Три абзац. Ea, quis, alias nobis porro quos laborum minus sed fuga odio dolore natus quas cum enim necessitatibus magni provident non saepe sequi?
+```html
+<nav class="nav nav-primary">
+  <ul>
+    <li class="tab-conversation active">
+      <a href="#" data-role="post-count" class="publisher-nav-color" data-nav="conversation">
+        <span class="comment-count">0 комментариев</span>
+        <span class="comment-count-placeholder">Комментарии</span>
+      </a>
+    </li>
+    <li class="dropdown user-menu" data-role="logout">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+        <span class="dropdown-toggle-wrapper">
+          <span>
+            Войти
+          </span>
+        </span>
+        <span class="caret"></span>
+      </a>
+    </li>
+  </ul>
+</nav>
+```
 
 ### "2018 KIPU
 <пробел><пробел><пробел><пробел>print 'Hello, World!'
