@@ -4,3 +4,4 @@
 2. FisunMark
 3. Mr.three
 ### "2018 KIPU
+<пробел><пробел><пробел><пробел>print 'Hello, World!'
