@@ -4,9 +4,11 @@
 2. FisunMark
 3. Mr.three
 
-0. элемент 1
-0. элемент 2
-0. элемент 3
-0. элемент 4
+* Раз абзац. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+
+* Два абзац. Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse id sem consectetuer libero luctus adipiscing.
+
+* Три абзац. Ea, quis, alias nobis porro quos laborum minus sed fuga odio dolore natus quas cum enim necessitatibus magni provident non saepe sequi?
+
 ### "2018 KIPU
 <пробел><пробел><пробел><пробел>print 'Hello, World!'
