@@ -2,7 +2,7 @@
 ## "Команда разработчиков"
 1. Mr.first
 2. FisunMark
-3. Mr.three
+`~`3. Mr.three`~`
 
 `hr`
 ***
