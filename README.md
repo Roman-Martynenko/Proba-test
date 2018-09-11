@@ -3,5 +3,9 @@
 1. Mr.first
 2. FisunMark
 3. Mr.three
+
+- элемент 1
+- элемент 2
+- элемент ..
 ### "2018 KIPU
 <пробел><пробел><пробел><пробел>print 'Hello, World!'
